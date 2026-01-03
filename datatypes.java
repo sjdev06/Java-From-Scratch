@@ -10,7 +10,6 @@ public class datatypes {
         char c = 'k';
         boolean b = true;
 
-
     }
     
 }
